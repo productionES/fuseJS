@@ -1,0 +1,15 @@
+.results {
+  border: 1px solid #ddd;
+  margin-top: 10px;
+}
+
+.content {
+  width:95%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.wide {
+  position:relative;
+  width:100% !important;
+}
